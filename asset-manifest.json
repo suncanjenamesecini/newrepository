@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mojastranica/static/css/main.f3566597.chunk.css",
-    "main.js": "/mojastranica/static/js/main.a964d75b.chunk.js",
-    "main.js.map": "/mojastranica/static/js/main.a964d75b.chunk.js.map",
+    "main.js": "/mojastranica/static/js/main.1a47d17a.chunk.js",
+    "main.js.map": "/mojastranica/static/js/main.1a47d17a.chunk.js.map",
     "runtime-main.js": "/mojastranica/static/js/runtime-main.e11aa717.js",
     "runtime-main.js.map": "/mojastranica/static/js/runtime-main.e11aa717.js.map",
     "static/js/2.9ae2ee01.chunk.js": "/mojastranica/static/js/2.9ae2ee01.chunk.js",
     "static/js/2.9ae2ee01.chunk.js.map": "/mojastranica/static/js/2.9ae2ee01.chunk.js.map",
     "index.html": "/mojastranica/index.html",
-    "precache-manifest.2cbfb30b4aaec8e6837cc6026aafb0f9.js": "/mojastranica/precache-manifest.2cbfb30b4aaec8e6837cc6026aafb0f9.js",
+    "precache-manifest.e863589916e6c8b7eeb0a77817289200.js": "/mojastranica/precache-manifest.e863589916e6c8b7eeb0a77817289200.js",
     "service-worker.js": "/mojastranica/service-worker.js",
     "static/css/main.f3566597.chunk.css.map": "/mojastranica/static/css/main.f3566597.chunk.css.map",
     "static/js/2.9ae2ee01.chunk.js.LICENSE.txt": "/mojastranica/static/js/2.9ae2ee01.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e11aa717.js",
     "static/js/2.9ae2ee01.chunk.js",
     "static/css/main.f3566597.chunk.css",
-    "static/js/main.a964d75b.chunk.js"
+    "static/js/main.1a47d17a.chunk.js"
   ]
 }
