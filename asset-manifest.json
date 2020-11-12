@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mojastranica/static/css/main.e46ab0d5.chunk.css",
+    "main.css": "/mojastranica/static/css/main.8cf7198a.chunk.css",
     "main.js": "/mojastranica/static/js/main.674b6371.chunk.js",
     "main.js.map": "/mojastranica/static/js/main.674b6371.chunk.js.map",
     "runtime-main.js": "/mojastranica/static/js/runtime-main.e11aa717.js",
@@ -9,10 +9,10 @@
     "static/js/2.b0c6f0fe.chunk.js": "/mojastranica/static/js/2.b0c6f0fe.chunk.js",
     "static/js/2.b0c6f0fe.chunk.js.map": "/mojastranica/static/js/2.b0c6f0fe.chunk.js.map",
     "index.html": "/mojastranica/index.html",
-    "precache-manifest.61676a65294940f47ae3197784e7445d.js": "/mojastranica/precache-manifest.61676a65294940f47ae3197784e7445d.js",
+    "precache-manifest.0b19a3d007563514ed282bdd65513ef0.js": "/mojastranica/precache-manifest.0b19a3d007563514ed282bdd65513ef0.js",
     "service-worker.js": "/mojastranica/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/mojastranica/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.e46ab0d5.chunk.css.map": "/mojastranica/static/css/main.e46ab0d5.chunk.css.map",
+    "static/css/main.8cf7198a.chunk.css.map": "/mojastranica/static/css/main.8cf7198a.chunk.css.map",
     "static/js/2.b0c6f0fe.chunk.js.LICENSE.txt": "/mojastranica/static/js/2.b0c6f0fe.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mojastranica/static/media/PressStart2P-Regular.2c404fd0.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.e11aa717.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.b0c6f0fe.chunk.js",
-    "static/css/main.e46ab0d5.chunk.css",
+    "static/css/main.8cf7198a.chunk.css",
     "static/js/main.674b6371.chunk.js"
   ]
 }
