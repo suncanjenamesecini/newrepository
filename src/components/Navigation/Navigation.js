@@ -7,6 +7,8 @@ const Navigation = () => {
 			<ul className="main-nav">
             	<li><a href="https://suncanjenamesecini.github.io/mojastranica/">Почетна</a></li>
             	<li><a href="https://suncanjenamesecini.github.io/moja_stranica/projekti/projekti.html">Пројекти</a></li>
+            	<li><a href="https://milica-babic.medium.com/">Блог</a></li>
+            	<li><a href="https://suncanjenamesecini.github.io/milica_babic/">Нова страница</a></li>
 				<li><a href="https://suncanjenamesecini.github.io/moja_stranica/crtezi/crtezi.html">Цртежи</a></li>
 				<li><a href="https://suncanjenamesecini.github.io/moja_stranica/slike/slike.html">Слике</a></li>
 				<li><a href="https://suncanjenamesecini.github.io/moja_stranica/murali/murali.html">Мурали</a></li>
