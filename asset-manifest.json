@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mojastranica/static/css/main.e46ab0d5.chunk.css",
-    "main.js": "/mojastranica/static/js/main.4ef215a6.chunk.js",
-    "main.js.map": "/mojastranica/static/js/main.4ef215a6.chunk.js.map",
+    "main.js": "/mojastranica/static/js/main.674b6371.chunk.js",
+    "main.js.map": "/mojastranica/static/js/main.674b6371.chunk.js.map",
     "runtime-main.js": "/mojastranica/static/js/runtime-main.e11aa717.js",
     "runtime-main.js.map": "/mojastranica/static/js/runtime-main.e11aa717.js.map",
     "static/css/2.3c03f26f.chunk.css": "/mojastranica/static/css/2.3c03f26f.chunk.css",
     "static/js/2.b0c6f0fe.chunk.js": "/mojastranica/static/js/2.b0c6f0fe.chunk.js",
     "static/js/2.b0c6f0fe.chunk.js.map": "/mojastranica/static/js/2.b0c6f0fe.chunk.js.map",
     "index.html": "/mojastranica/index.html",
-    "precache-manifest.dd9c75a52bc52cfcc8917ab29ba086fe.js": "/mojastranica/precache-manifest.dd9c75a52bc52cfcc8917ab29ba086fe.js",
+    "precache-manifest.61676a65294940f47ae3197784e7445d.js": "/mojastranica/precache-manifest.61676a65294940f47ae3197784e7445d.js",
     "service-worker.js": "/mojastranica/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/mojastranica/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.e46ab0d5.chunk.css.map": "/mojastranica/static/css/main.e46ab0d5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.b0c6f0fe.chunk.js",
     "static/css/main.e46ab0d5.chunk.css",
-    "static/js/main.4ef215a6.chunk.js"
+    "static/js/main.674b6371.chunk.js"
   ]
 }
